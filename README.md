@@ -2,7 +2,7 @@
 ** Based on tdbot 
 
 
-## راهنمای نصب 
+# راهنمای نصب 
 
 cd pt
 Chmod +x TeleBot
