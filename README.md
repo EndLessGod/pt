@@ -3,8 +3,9 @@
 
 
 # راهنمای نصب 
-```sh
+
 cd pt
+
 Chmod +x TeleBot
 
 ./TeleBot install
