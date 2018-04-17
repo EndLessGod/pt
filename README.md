@@ -3,6 +3,7 @@
 
 
 # راهنمای نصب 
+git clone https://github.com/EndLessGod/pt.git
 
 cd pt
 
@@ -16,13 +17,16 @@ Chmod +x TeleBot
 
 ## لانچ ربات سیل
 cd pt 
+
 ./TeleBot cli
 ## لانچ ربات ای پی ای 
 cd pt
+
 ./Telebot Api
 
 ## اتولانچ
 cd pt
+
 ./Autolaunch
 
 ### ارتباط با من
