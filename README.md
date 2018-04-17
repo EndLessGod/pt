@@ -3,7 +3,7 @@
 
 
 # راهنمای نصب 
-git clone https://github.com/EndLessGod/pt.git
+git clone https://github.com/MrRadsps/pt.git
 
 cd pt
 
