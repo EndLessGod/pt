@@ -3,11 +3,14 @@
 
 
 # راهنمای نصب 
-
+```sh
 cd pt
 Chmod +x TeleBot
+
 ./TeleBot install
+
 ./Telebot config
+# شماره ربات را وارد کنید.
 ./Telebot login
 
 ## لانچ ربات سیل
